@@ -1,0 +1,32 @@
+:author: Vinod Patel
+:email: thevpatel@gmail.com
+:experimental:
+:toc: left
+:toclevels: 4
+:toc-title: Content Index
+:revnumber: 1.0
+:revremark: First draft of APIs
+:imagesdir: assets/images
+:iconsdir: assets/icons
+:stylesdir: assets/css
+:scriptsdir: assets/js
+:stylesheet:
+:sectnums:
+:idprefix: id_
+:keywords: tls ssl https csr pem
+:description: Example AsciiDoc document
+
+
+= TLS/SSL Security - HTTPS, CSR, Certificates
+
+This is the optional preamble (an untitled section body). Useful for
+writing simple sectionless documents consisting only of a preamble.
+
+== Public/Private Key
+=== Generating Public/Private Key
+== CSR
+=== Generating CSR
+== SSL Certificate
+=== Submitting for TLS/SSL Certificate
+=== Understanding certificates
+== Free SSL certificates
