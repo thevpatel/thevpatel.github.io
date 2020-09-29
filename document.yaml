@@ -1,0 +1,43 @@
+name:
+  first: Vinod
+  middle: Shivkumar
+  title: Patel
+date_of_birth:
+  date: 15
+  month: 8
+  year: 1990
+dp_url: "https://"
+contact: +91 8151006480
+email: thevpatel@gmail.com
+website: "https://"
+address: "401 #54 4th Cross 1st Main Saraswathipuram Arekere, 560076"
+
+
+
+
+
+
+education:
+  - title:
+    
+experience:
+  
+recognition:
+  - title:
+    desc:
+    link:
+publication:
+  - title:
+    desc:
+    link:
+skills:
+  - title:
+    desc:
+    rating:
+reference:
+  - title:
+    desc:
+languages:
+  - name:
+    fluency:
+welfare:
